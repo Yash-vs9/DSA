@@ -1,3 +1,5 @@
+package Recursion;
+
 public class Palindrome {
     public static boolean check(String str,int l,int r){
         if(l>=r){

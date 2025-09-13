@@ -1,3 +1,5 @@
+package Recursion;
+
 public class SumN {
     public static int sum(int n){
         if(n==1){

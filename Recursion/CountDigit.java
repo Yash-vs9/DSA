@@ -1,3 +1,5 @@
+package Recursion;
+
 public class CountDigit {
     public static int count(int n){
         if(n==0){
